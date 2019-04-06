@@ -1,0 +1,14 @@
+uuid: 60607641-cf9a-402c-ab85-5375a20f8caa
+name: campaign-kit
+mail: aangel@mac.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
